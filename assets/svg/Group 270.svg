@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.229" height="40.229" viewBox="0 0 40.229 40.229">
+  <g id="Group_270" data-name="Group 270" transform="translate(-1631.412 -3619.161)">
+    <path id="Path" d="M20.115,0A20.115,20.115,0,1,0,40.229,20.115,20.114,20.114,0,0,0,20.115,0Z" transform="translate(1631.412 3619.161)" fill="#fff"/>
+    <g id="Group_239" data-name="Group 239" transform="translate(1642.328 3630.679)">
+      <path id="Path-2" data-name="Path" d="M0,0H3.9V11.726H0Z" transform="translate(0.231 5.652)" fill="#009ac2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <path id="Path-3" data-name="Path" d="M4.39,2.025A2.027,2.027,0,0,0,2.208,0a2.032,2.032,0,1,0-.051,4.052h.025A2.035,2.035,0,0,0,4.39,2.025Z" transform="translate(0 0)" fill="#009ac2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <path id="Path-4" data-name="Path" d="M7.42,0c2.568,0,4.493,1.676,4.493,5.278V12h-3.9V5.728c0-1.576-.565-2.651-1.978-2.651a2.136,2.136,0,0,0-2,1.425,2.663,2.663,0,0,0-.129.951V12H0S.051,1.376,0,.276H3.9V1.936A3.876,3.876,0,0,1,7.42,0Z" transform="translate(6.294 5.378)" fill="#009ac2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
